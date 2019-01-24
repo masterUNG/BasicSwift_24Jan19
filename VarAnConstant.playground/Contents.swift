@@ -21,6 +21,15 @@ let myName: String = "Doramon"
 nameString = "MasterUNG1234"
 //myName = "Doramon1234" Cannot Compile Error
 
+//Operating
+var answer1: Int = numberInt + 1000 + Int(numberDou)
+
+var number4: String = "500"
+var number5: Int = Int(number4)!
+
+
+
+
 
 
 
